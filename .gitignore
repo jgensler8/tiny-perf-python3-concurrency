@@ -1,0 +1,4 @@
+FlameGraph/
+perf.data*
+out.perf-folded
+perf-kernel.svg
